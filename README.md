@@ -1,13 +1,13 @@
 ### 👋 I'm Hang Xu
 
-- 👨🏽‍💻 Frontend developer
+- 👨🏽‍💻  Frontend developer
 
-- ⚡ Develop with JavaScript
+- ⚡  Develop with JavaScript
 
-- 📖 Keep reading
+- 📖  Keep reading
 
-- 🏀 Boston Celtics fun
+- 🏀  Boston Celtics fun
 
-- 🐦 [@vvyage](https://twitter.com/vvyage)
+- 🐦  [@vvyage](https://twitter.com/vvyage)
 
-- 📮 at.xuhang@outlook.com
+- 📮  at.xuhang@outlook.com
