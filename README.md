@@ -1,16 +1,13 @@
-### Hi there 👋
+### 👋 I'm Hang Xu
 
-<!--
-**vvyage/vvyage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨🏽‍💻 Frontend developer
 
-Here are some ideas to get you started:
+- ⚡ Develop with JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📖 Keep reading
+
+- 🏀 Boston Celtics fun
+
+- 🐦 [@vvyage](https://twitter.com/vvyage)
+
+- 📮 at.xuhang@outlook.com
